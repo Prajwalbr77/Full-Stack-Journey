@@ -1,0 +1,19 @@
+#container{
+    height: 200px;
+    width: 500px;
+    background-color: green;
+    display: grid;
+    grid-template-rows: 50px 50px 50px 50px;
+    grid-template-columns: repeat(4,1fr) ;
+    align-items: center;
+}
+.item{
+    height: 25px;
+    width: 50px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    border: 2px solid white;
+    display: grid;
+    align-items: end;
+}
