@@ -16,4 +16,5 @@
     border: 2px solid white;
     display: grid;
     align-items: end;
+    align-items:center;
 }
