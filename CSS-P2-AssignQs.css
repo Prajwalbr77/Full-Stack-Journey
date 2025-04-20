@@ -26,6 +26,7 @@ h1 ::first-letter{
     color:red;
     color:blue;
     color:blue;
+    color:blue;
 }
 
 #yes:checked + label{
