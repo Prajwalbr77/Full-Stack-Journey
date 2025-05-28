@@ -4,3 +4,4 @@ console.log(items.indexOf("smartphone"));
 console.log(items.indexOf("smartphone"));
 console.log(items.indexOf("smartphone"));
 console.log(items.indexOf("smartphone"));
+console.log(items.indexOf("smartphone"));
