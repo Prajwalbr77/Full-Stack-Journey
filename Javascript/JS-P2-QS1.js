@@ -6,4 +6,5 @@ if(num%10==0){
     console.log("Goog");
     console.log("Goog");
                 console.log("Goog");
+     console.log("Goog");
 }
