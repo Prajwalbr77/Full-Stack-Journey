@@ -4,5 +4,6 @@ if(num%10==0){
 }else{
     console.log("Bad");
     console.log("Goog");
-    console.log("Goog:);
+    console.log("Goog");
+                console.log("Goog");
 }
