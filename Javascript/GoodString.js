@@ -6,4 +6,5 @@ if((str[0]==='a')&&(str.length>3)){
 
     console.log("Iam rice");
      console.log("Iam rice");
+     console.log("Iam rice");
 }
