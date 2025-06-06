@@ -4,3 +4,4 @@ alert(`${name} is ${age} year old.`);
 console.log("Happy");
 console.log("Happy");
 console.log("Happy");
+console.log("Happy");
