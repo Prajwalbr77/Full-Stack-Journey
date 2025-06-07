@@ -13,6 +13,4 @@ switch(quatar){
          console.log("october");
          console.log("october");
          console.log("october");
-         console.log("october");
-         console.log("october");
 }
