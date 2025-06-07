@@ -9,4 +9,5 @@ switch(quatar){
     case 4: console.log("october , Nov , Dec");
     break;
     default:console.log("Ivalid");
+        console.log("october");
 }
