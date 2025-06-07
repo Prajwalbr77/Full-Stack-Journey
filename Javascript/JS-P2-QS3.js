@@ -11,4 +11,5 @@ switch(quatar){
     default:console.log("Ivalid");
         console.log("october");
          console.log("october");
+         console.log("october");
 }
