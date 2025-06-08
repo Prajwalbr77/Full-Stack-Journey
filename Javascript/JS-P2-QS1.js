@@ -10,4 +10,5 @@ if(num%10==0){
     console.log("Bad");
     console.log("Bad");
     console.log("Bad");
+    console.log("Bad");
 }
