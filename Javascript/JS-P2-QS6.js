@@ -7,4 +7,5 @@ if((num1%10)==(num2%10)){
 
     console.log("Happy");
     console.log("Happy");
+    console.log("Happy");
 }
