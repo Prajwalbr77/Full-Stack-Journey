@@ -18,8 +18,6 @@ switch(day){
     break;
     default:console.log("Its not a valid day!")
         console.log("Hello");
-        console.log("Hello");
-        console.log("Hello");
 }
 
 
