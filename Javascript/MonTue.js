@@ -16,8 +16,7 @@ switch(day){
     break;
     case 7:console.log("Yeah its Sunday!");
     break;
-    default:console.log("Its not a valid day!")
-        console.log("Hello");
+    default:console.log("Its not a valid day!");
 }
 
 
