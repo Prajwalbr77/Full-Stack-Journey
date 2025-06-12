@@ -4,3 +4,4 @@ if((num%3)&&(num+1==15)||(num-1==11)){
 }else{
     console.log("Unsafe");
 }
+console.log("Happy");
