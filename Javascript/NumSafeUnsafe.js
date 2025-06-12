@@ -7,4 +7,3 @@ if((num%3)&&(num+1==15)||(num-1==11)){
 console.log("Happy");
 console.log("Happy");
 console.log("Happy");
-console.log("Happy");
