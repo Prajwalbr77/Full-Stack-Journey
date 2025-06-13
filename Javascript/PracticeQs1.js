@@ -14,4 +14,3 @@ else if(size=="s"){
 else{
     console.log("Invalid Price");
 }
-console.log("Invalid");
