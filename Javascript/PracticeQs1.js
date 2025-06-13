@@ -15,4 +15,3 @@ else{
     console.log("Invalid Price");
 }
 console.log("Invalid");
-console.log("Invalid");
