@@ -18,5 +18,3 @@ console.log("Invalid");
 console.log("Invalid");
 console.log("Invalid");
 console.log("Invalid");
-console.log("Invalid");
-console.log("Invalid");
