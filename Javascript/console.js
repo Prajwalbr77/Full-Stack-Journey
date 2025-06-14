@@ -14,4 +14,3 @@ console.log("Before");
 console.log("Before");
 console.log("Before");
 console.log("Before");
-console.log("Before");
