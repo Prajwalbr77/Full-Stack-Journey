@@ -9,3 +9,5 @@ if(age < 18){
     console.log('you cannot vote');
 }
 console.log("before the code");
+
+console.log("Before");
