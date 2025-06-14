@@ -12,4 +12,3 @@ console.log("before the code");
 
 console.log("Before");
 console.log("Before");
-console.log("Before");
