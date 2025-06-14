@@ -11,3 +11,5 @@ if(age < 18){
 console.log("before the code");
 
 console.log("Before");
+console.log("Before");
+
