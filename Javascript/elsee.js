@@ -11,4 +11,3 @@ else{
     console.log("This team is not present in ipl!");
 }
 console.log("End");
-console.log("End");
