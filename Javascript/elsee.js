@@ -10,4 +10,3 @@ else if(team ==="csk"){
 else{
     console.log("This team is not present in ipl!");
 }
-console.log("End");
