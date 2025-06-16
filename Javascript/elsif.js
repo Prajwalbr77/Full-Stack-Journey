@@ -8,3 +8,4 @@ else if(team ==="csk"){
 else if(team ==="mi"){
     console.log("Hardhik is the captain")
 }
+console.log("Hello");
