@@ -11,3 +11,4 @@ if(marks>=35){
 else{
     console.log("Better Luck Next Time!");
 }
+console.logz("Bye");
