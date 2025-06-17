@@ -12,3 +12,4 @@ else{
     console.log("Better Luck Next Time!");
 }
 console.logz("Bye");
+console.logz("Bye");
