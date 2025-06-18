@@ -11,3 +11,4 @@ switch(team){
     default:console.log("It is not a IPL team..!");
 
 }
+console.log("help");
