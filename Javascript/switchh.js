@@ -13,4 +13,3 @@ switch(team){
 }
 console.log("help");
 console.log("help");
-console.log("help");
