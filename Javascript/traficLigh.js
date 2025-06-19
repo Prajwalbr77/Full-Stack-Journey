@@ -9,3 +9,4 @@ if(color ==="green"){
     console.log("Go! The color is green");
 }
 console.log("Coding");
+console.log("Coding");
