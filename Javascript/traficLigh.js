@@ -8,3 +8,4 @@ if(color ==="yellow"){
 if(color ==="green"){
     console.log("Go! The color is green");
 }
+console.log("Coding");
