@@ -9,4 +9,3 @@ while(copy > 0){
 console.log(sum);
 
 console.log(sum);
-console.log(sum);
