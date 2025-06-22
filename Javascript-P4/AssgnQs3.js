@@ -11,4 +11,3 @@ console.log(sum);
 console.log(sum);
 console.log(sum);
 console.log(sum);
-console.log(sum);
