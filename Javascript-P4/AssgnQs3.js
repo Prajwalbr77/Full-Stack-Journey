@@ -7,3 +7,5 @@ while(copy > 0){
     copy = Math.floor(copy/10);
 }
 console.log(sum);
+
+console.log(sum);
