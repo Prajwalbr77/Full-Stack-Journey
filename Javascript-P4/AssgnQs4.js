@@ -7,3 +7,4 @@ console.log(`factorial of ${n} is ${factorial}`);
 
 console.log("hi");
 console.log("hi");
+console.log("hi");
