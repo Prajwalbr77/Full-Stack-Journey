@@ -12,4 +12,3 @@ console.logz(largest);
 console.logz(largest);
 console.logz(largest);
 console.logz(largest);
-console.logz(largest);
