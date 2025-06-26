@@ -8,6 +8,3 @@ if(mov==gues){
 }else{
     console.log("Your done!");
 }
-
-console.log("Hello");
-console.log("Hello");
