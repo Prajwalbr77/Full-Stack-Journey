@@ -12,3 +12,4 @@ if(mov==gues){
 console.log("Hello");
 console.log("Hello");
 console.log("Hello");
+console.log("Hello");
