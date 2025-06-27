@@ -5,3 +5,4 @@ for(team of teams){
     }
 }
 console.log(ipl);
+console.log(ipl);
