@@ -12,4 +12,3 @@ console.log("Happy mind");
 console.log("Happy mind");
 console.log("Happy mind");
 console.log("Happy mind");
-console.log("Happy mind");
