@@ -7,3 +7,5 @@ let fruitts =["apple","banana","Orange","Pineapple","StrawBerry","JackFruit"];
 for(let i=fruitts.length-1;i>=0;i--){
     console.log(i,fruitts[i]);
 }
+
+console.log("Happy mind");
