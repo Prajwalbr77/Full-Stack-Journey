@@ -10,4 +10,3 @@ for(let i=fruitts.length-1;i>=0;i--){
 
 console.log("Happy mind");
 console.log("Happy mind");
-console.log("Happy mind");
