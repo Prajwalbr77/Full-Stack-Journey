@@ -7,3 +7,4 @@ for(let i=0;i<heros.length;i++){
 }
 console.log("Prajwal");
 console.log("Prajwal");
+console.log("Prajwal");
