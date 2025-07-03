@@ -5,4 +5,3 @@ for(let h=1;h<=num;h=h+2){
 console.log("Hello");
 console.log("Hello");
 console.log("Hello");
-console.log("Hello");
