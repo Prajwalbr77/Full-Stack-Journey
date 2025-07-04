@@ -25,3 +25,5 @@ while(true){
     }
     req = prompt("Please enter your request:");
 }
+
+console.log("Happy");
