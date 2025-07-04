@@ -29,4 +29,3 @@ while(true){
 console.log("Happy");
 console.log("Happy");
 console.log("Happy");
-console.log("Happy");
