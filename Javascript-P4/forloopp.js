@@ -6,3 +6,4 @@ let num = Number(prompt("Enter the number:"));
 for(let i=num;i>=1;i--){
     console.log(i)
 }
+console.log("Hello");
