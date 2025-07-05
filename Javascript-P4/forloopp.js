@@ -7,4 +7,3 @@ for(let i=num;i>=1;i--){
     console.log(i)
 }
 console.log("Hello");
-console.log("Hello");
