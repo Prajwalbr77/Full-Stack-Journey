@@ -3,4 +3,3 @@ for(fruit of fruits){
     console.log(fruit);
 }
 conosle.log("Hello");
-console.log("hello");
