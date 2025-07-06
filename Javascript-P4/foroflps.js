@@ -5,3 +5,4 @@ for(fruit of fruits){
 conosle.log("Hello");
 console.log("hello");
 console.log("Hello");
+console.log("Hello");
