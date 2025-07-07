@@ -4,3 +4,4 @@ while(i<=5){
     i++;
 }
 console.log("Hello");
+console.log("Hello");
