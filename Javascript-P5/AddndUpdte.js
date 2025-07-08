@@ -8,4 +8,3 @@ city : "Delhi",
 console.log("Move forward");
 console.log("Move forward");
 console.log("Move forward");
-console.log("Move forward");
