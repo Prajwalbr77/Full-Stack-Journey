@@ -12,3 +12,5 @@ const student = [
       rank :5
     }
 ];
+
+console.log("Prajwal");
