@@ -3,4 +3,3 @@ const car ={
     model : 2016,
     color : "black",
 }
-console.log("Hello");
