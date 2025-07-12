@@ -4,4 +4,3 @@ const person ={
     city :"Mudigere",
 }
 console.log("Happy");
-console.log("Happy");
