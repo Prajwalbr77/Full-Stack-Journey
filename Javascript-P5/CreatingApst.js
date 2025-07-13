@@ -6,3 +6,4 @@ let twitter = {
     tags : ["Dheeraj","PZ fitness","Devil"],
 };
 console.log("happy");
+console.log("happy");
