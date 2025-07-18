@@ -10,4 +10,3 @@ let greet = function(){
 multipleGreet(greet,6);
 
 console.log("hello");
-console.log("hello");
