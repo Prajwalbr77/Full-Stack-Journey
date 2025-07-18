@@ -12,4 +12,3 @@ multipleGreet(greet,6);
 console.log("hello");
 console.log("hello");
 console.log("hello");
-console.log("hello");
