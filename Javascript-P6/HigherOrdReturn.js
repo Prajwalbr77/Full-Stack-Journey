@@ -38,3 +38,4 @@ function oddEvenFactory(request){
 let request = "even";
 
 console.log("hello");
+console.log("hello");
