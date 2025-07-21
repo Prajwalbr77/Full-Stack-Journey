@@ -24,4 +24,3 @@ p.innerHTML = "Apna College <b>Delta</b> Practice";
 document.querySelector("body").append(p);
 
 console.log("hello");
-console.log("hello");
