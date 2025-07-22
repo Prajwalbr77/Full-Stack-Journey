@@ -5,4 +5,3 @@ const person ={
 }
 
 console.log("hello");
-console.log("hello");
