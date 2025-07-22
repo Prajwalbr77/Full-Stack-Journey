@@ -3,4 +3,6 @@ const person ={
     age : 21,
     city :"Mudigere",
 }
+
+console.log("hello");
 console.log("hello");
