@@ -6,3 +6,4 @@ let twitter = {
     tags : ["Dheeraj","PZ fitness","Devil"],
 };
 cosole.log("Hello foks");
+cosole.log("Hello foks");
