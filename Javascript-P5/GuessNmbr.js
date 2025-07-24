@@ -17,4 +17,3 @@ while(true){
         guess = prompt("Your guess is large !");
     }
 }
-console.log("hello");
