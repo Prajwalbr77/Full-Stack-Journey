@@ -12,6 +12,3 @@ const student = {
     grade :"A",
   }
 };
-
-console.log("happy home");
-console.log("happy home");
