@@ -7,5 +7,4 @@ let mybio ={
 
 let mypro = {
     age : 22,
-    passion : "fitness";
 }
