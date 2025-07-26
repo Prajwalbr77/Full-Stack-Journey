@@ -4,3 +4,7 @@ let mybio ={
     favColor : "Black",
     favThing : "Gym",
 }
+
+let mypro = {
+    age : 22,
+}
