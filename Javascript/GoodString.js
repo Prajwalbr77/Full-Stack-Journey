@@ -8,5 +8,4 @@ else if{
     console.log("Its exceeding");
 }
 else {
-    console.log("Its not exceeding");
 }
