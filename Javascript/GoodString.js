@@ -4,8 +4,7 @@ if((str[0]==='a')&&(str.length>3)){
 }else if{
     console.log("It is not a good string!");
 }
-else if{
+else{
     console.log("Its exceeding");
 }
-else {
-}
+
