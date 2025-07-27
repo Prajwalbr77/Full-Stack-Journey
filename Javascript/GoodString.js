@@ -7,4 +7,6 @@ if((str[0]==='a')&&(str.length>3)){
 else if{
     console.log("Its exceeding");
 }
-
+else {
+    console.log("Its not exceeding");
+}
