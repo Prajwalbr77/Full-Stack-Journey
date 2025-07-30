@@ -8,4 +8,3 @@ while(copy>0){
 console.log(count);
 
 let count =0;
-let copy = number;
