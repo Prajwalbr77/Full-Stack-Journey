@@ -6,5 +6,3 @@ while(copy>0){
     copy=Math.floor(copy/10);
 }
 console.log(count);
-
-let count =0;
