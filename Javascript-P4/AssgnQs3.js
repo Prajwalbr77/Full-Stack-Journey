@@ -9,4 +9,3 @@ while(copy > 0){
 console.log(sum);
 
 let number= 287152;
-let sum =0;
