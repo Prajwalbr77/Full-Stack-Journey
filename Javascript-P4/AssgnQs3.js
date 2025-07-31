@@ -7,5 +7,3 @@ while(copy > 0){
     copy = Math.floor(copy/10);
 }
 console.log(sum);
-
-let number= 287152;
