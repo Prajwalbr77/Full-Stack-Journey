@@ -6,4 +6,3 @@ for(let i=1;i<=n;i++){
 console.log(`factorial of ${n} is ${factorial}`);
 
 let n= 6;
-let factorial =1;
