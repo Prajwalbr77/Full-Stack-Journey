@@ -5,10 +5,7 @@ for(let i=0; i<=arr.length;i++){
         largest = arr[i];
     }
 }
-console.log(largest);
-let arr = [2,3,4,3,5,3,24,];
-for(let i=0;i<arr.length;i++){
-    }
-}
+
+
 
 
