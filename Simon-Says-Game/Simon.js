@@ -80,4 +80,9 @@ function reset(){
     gameSeq =[];
     userSeq=[];
     level =0;
+
+}
+
+function reset(){
+    started = false;
 }
