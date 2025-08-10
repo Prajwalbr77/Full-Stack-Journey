@@ -83,6 +83,4 @@ function reset(){
 
 }
 
-function reset(){
-}
 
