@@ -84,5 +84,5 @@ function reset(){
 }
 
 function reset(){
-    started = false;
 }
+
