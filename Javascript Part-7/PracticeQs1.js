@@ -9,9 +9,8 @@ setTimeout(()=>{
 },10000);
 
 
-setTimeout(() =>
-    clearInterval(id);
-    
+setTimeout(() => 
 });
+
 
 
