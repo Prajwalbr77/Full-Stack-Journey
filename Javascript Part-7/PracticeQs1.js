@@ -11,6 +11,7 @@ setTimeout(()=>{
 
 setTimeout(() =>
     clearInterval(id);
-    console.log("clear interval ran");
+    
 });
+
 
