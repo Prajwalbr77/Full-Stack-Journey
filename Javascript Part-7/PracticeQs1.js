@@ -9,8 +9,5 @@ setTimeout(()=>{
 },10000);
 
 
-setTimeout(() => 
-});
-
 
 
