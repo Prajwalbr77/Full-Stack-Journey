@@ -5,4 +5,11 @@ let id = setInterval(()=>{
 setTimeout(()=>{
     clearInterval(id);
     console.log("Clear interval ran");
+
 },10000);
+
+
+setTimeout(() =>
+    clearInterval(id);
+    console.log("clear interval ran");
+},1000);
