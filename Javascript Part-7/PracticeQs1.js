@@ -7,7 +7,3 @@ setTimeout(()=>{
     console.log("Clear interval ran");
 
 },10000);
-
-
-
-
