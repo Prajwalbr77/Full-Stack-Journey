@@ -8,7 +8,4 @@ function generateRandom(start,end){
 }
 
 
-let start = 100;
-
-
 
