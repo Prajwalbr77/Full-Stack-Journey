@@ -9,7 +9,6 @@ function generateRandom(start,end){
 
 
 let start = 100;
-function generateRandom(start,end){
-}
+
 
 
