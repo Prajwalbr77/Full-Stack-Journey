@@ -13,4 +13,9 @@ user.addEventListener("change",function(){
 user.addEventListener("input",function(){
     console.log("input event");
     console.log("Final value is =",this.value);
+
+});
+user.addEventListener("input",function(){
+    console.log("input event");
+    console.log("input event");
 });
