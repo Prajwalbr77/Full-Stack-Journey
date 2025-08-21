@@ -26,4 +26,3 @@ document.querySelector("body").append(p);
 
 let h2 = document.createElement("p");
 p.innerHTML = "Apna College <b>Delta</b> practice"
-doucument.querySelector("body").append(p);
