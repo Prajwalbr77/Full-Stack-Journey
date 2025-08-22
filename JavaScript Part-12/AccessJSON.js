@@ -8,5 +8,3 @@ let student = {
     marks: 95
 
 };
-let number = Number(prompt("Enter the number")); 
-
