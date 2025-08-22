@@ -6,4 +6,6 @@ console.log(validRes.fact);
 let student = {
     name : "Prajwal B R",
     marks: 95
+
 };
+let number = Number(prompt("Enter the number")); 
