@@ -10,5 +10,4 @@ let student = {
 };
 let number = Number(prompt("Enter the number")); 
 if(10>number){
-    console.log("You are genius");
 }
