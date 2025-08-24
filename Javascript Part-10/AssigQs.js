@@ -12,4 +12,3 @@ inp.addEventListener('input',function(){
 
 let inp = document.querySelector('input');
 let h3 = document.querySelector('h4');
-inp.addEventListner('input',function(){
