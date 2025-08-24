@@ -7,4 +7,8 @@ inp.addEventListener('input',function(){
    }
    console.log(filtered);
    h3.innerText = filtered;
+
 });
+
+let inp = document.querySelector('input');
+let h3 = document.querySelector('h4');
