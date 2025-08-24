@@ -9,6 +9,3 @@ inp.addEventListener('input',function(){
    h3.innerText = filtered;
 
 });
-
-let inp = document.querySelector('input');
-let h3 = document.querySelector('h4');
