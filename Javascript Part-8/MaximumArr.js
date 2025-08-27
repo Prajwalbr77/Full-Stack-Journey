@@ -5,4 +5,7 @@ for(let i=0;i<arr.length;i++){
         max = arr[i];
     }
 }
+
 console.log(max);
+
+let arr = [1,2,3,4,3,12];
