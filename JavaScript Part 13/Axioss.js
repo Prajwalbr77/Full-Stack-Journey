@@ -8,7 +8,7 @@ btn.addEventListener("click",async ()=>{
     img.setAttribute("src",link);
     console.log(link);
 });
-
+hello
 
 
 async function getImage() {
@@ -42,4 +42,5 @@ async function getImage() {
 //         console.log("error :",e);
 //         return "No fact found";
 //     }
+
 // }
