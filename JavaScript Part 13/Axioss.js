@@ -8,7 +8,6 @@ btn.addEventListener("click",async ()=>{
     img.setAttribute("src",link);
     console.log(link);
 });
-hello
 
 
 async function getImage() {
@@ -44,3 +43,4 @@ async function getImage() {
 //     }
 
 // }
+
