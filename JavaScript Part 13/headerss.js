@@ -15,3 +15,4 @@ async function getJokes() {
 try {
     const config = {headers: "applications/json"}};
 let res = await axios.get (url.config);
+}
