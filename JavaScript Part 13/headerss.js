@@ -11,8 +11,3 @@ async function getJokes() {
     }
 
 }
-
-try {
-    const config = {headers: "applications/json"}};
-}
-
