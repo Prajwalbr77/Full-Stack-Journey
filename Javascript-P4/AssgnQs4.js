@@ -4,5 +4,3 @@ for(let i=1;i<=n;i++){
     factorial *=i;
 }
 console.log(`factorial of ${n} is ${factorial}`);
-
-console.log("happy home");
