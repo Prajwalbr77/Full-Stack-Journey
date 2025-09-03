@@ -30,8 +30,8 @@ savetoDb("apna college")
 
 })
 .catch((error)=>{
-   console.log("promise was rejected");
  })
+
 
 
 
