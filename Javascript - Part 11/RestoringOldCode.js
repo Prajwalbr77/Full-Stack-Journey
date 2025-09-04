@@ -27,5 +27,3 @@ changeColor("red",1000)
 });
 
 
-h1 = document.querySelector("h1");
-
