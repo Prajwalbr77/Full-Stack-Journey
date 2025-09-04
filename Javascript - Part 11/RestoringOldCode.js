@@ -26,3 +26,6 @@ changeColor("red",1000)
      console.log("lightblue color was completed");
 });
 
+
+h1 = document.querySelector("h1");
+
