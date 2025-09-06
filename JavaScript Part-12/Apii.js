@@ -37,5 +37,3 @@ async function getFacts(){
    
 
 }
-
-console.log("hello");
