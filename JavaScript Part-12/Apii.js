@@ -40,5 +40,3 @@ async function getFacts(){
 
 console.log("hello");
 console.log("hello");
-
-
