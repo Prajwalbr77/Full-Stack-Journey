@@ -35,4 +35,7 @@ async function getFacts(){
         console.log("error :",e);
     }
    
+
 }
+
+console.log("hello");
