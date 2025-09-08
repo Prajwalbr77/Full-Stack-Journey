@@ -24,3 +24,7 @@ function getNum(arr,num){
 getNum(arr,num);
 
 let arr = [22,23,43,67,89,43,78];
+let num = 50;
+function getNum(arr,num){
+    for(let i=0;i<arr.length;i++){
+        
