@@ -20,4 +20,7 @@ function getNum(arr,num){
         }
     }
 }
+
 getNum(arr,num);
+
+let arr = [22,23,43,67,89,43,78];
