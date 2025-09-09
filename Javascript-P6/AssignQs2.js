@@ -13,5 +13,3 @@ function uniqueChar(str){
 }
 
 uniqueChar(str);
-
-let str = "aaabbccidfeecerijajfi";
