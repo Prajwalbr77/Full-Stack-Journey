@@ -11,4 +11,7 @@ function uniqueChar(str){
     }
     return ans;
 }
+
 uniqueChar(str);
+
+let str = "aaabbccidfeecerijajfi";
