@@ -9,5 +9,3 @@ setTimeout(()=>{
 },10000);
 
 console.log("hello");
-
-console.log("hello");
