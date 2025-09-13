@@ -25,5 +25,3 @@ document.querySelector('body').append(p);
 
 
 console.log("helly");
-document.querySelector('body').append(p);
-
