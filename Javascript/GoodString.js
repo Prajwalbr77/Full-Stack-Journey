@@ -4,8 +4,3 @@ if((str[0]==='a')&&(str.length>3)){
 }else {
     console.log("It is not a good string!");
 }
-
-let str = "appricitate";
-if((str[0]==='a')&&(str.length>3)){
-}
-
