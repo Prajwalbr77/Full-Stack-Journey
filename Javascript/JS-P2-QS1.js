@@ -6,3 +6,6 @@ if(num%10==0){
 }
 
 let num = 99;
+if(num%10==0){
+    console.log("Good");
+}
