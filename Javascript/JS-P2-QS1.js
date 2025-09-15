@@ -4,8 +4,3 @@ if(num%10==0){
 }else{
     console.log("Bad");
 }
-
-let num = 99;
-if(num%10==0){
-}
-
