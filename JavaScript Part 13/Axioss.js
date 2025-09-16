@@ -23,7 +23,6 @@ async function getImage() {
 
 asynce function getImage(){
     try{
-        let res = await axios.get(ur12);
     }
 }
 
@@ -49,5 +48,6 @@ asynce function getImage(){
 //     }
 
 // }
+
 
 
