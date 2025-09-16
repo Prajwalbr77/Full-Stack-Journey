@@ -21,6 +21,12 @@ async function getImage() {
     }
 }
 
+asynce function getImage(){
+    try{
+        let res = await axios.get(ur12);
+    }
+}
+
 
 // btn.addEventListener("click",async ()=>{
 //     let fact = await getFacts();
@@ -43,4 +49,5 @@ async function getImage() {
 //     }
 
 // }
+
 
