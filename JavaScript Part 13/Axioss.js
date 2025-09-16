@@ -21,12 +21,6 @@ async function getImage() {
     }
 }
 
-asynce function getImage(){
-    try{
-    }
-}
-
-
 // btn.addEventListener("click",async ()=>{
 //     let fact = await getFacts();
 //     console.log(fact);
@@ -48,6 +42,7 @@ asynce function getImage(){
 //     }
 
 // }
+
 
 
 
