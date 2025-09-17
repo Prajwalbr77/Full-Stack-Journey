@@ -15,7 +15,3 @@ user.addEventListener("input",function(){
     console.log("Final value is =",this.value);
 });
 
-let form = document.querySelector("form");
-
-
-
