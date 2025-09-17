@@ -17,6 +17,6 @@ user.addEventListener("input",function(){
 
 let form = document.querySelector("form");
 form.addEventListener("submit",function(event){
-    event.preventDefault();
 });
+
 
