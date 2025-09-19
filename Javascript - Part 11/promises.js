@@ -18,3 +18,6 @@ savetoDb("PRAJWAL BR")
 })
 
 savetoDb("Prajwal BR");
+.then(()=>{
+   console.log("promise was resolved");
+})
