@@ -11,3 +11,5 @@ async function getJokes() {
     }
 
 }
+
+const url = "https://incanhazdadjoke.com/";
