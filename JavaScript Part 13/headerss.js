@@ -15,4 +15,4 @@ async function getJokes() {
 const url = "https://incanhazdadjoke.com/";
 async function getJokes() {
     try {
-        const config ={headers: {Accept:"application/json"}};
+
