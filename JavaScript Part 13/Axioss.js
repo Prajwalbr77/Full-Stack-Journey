@@ -43,6 +43,11 @@ async function getImage() {
 
 // }
 
+async function getFacts(){
+    try {
+        let res = await axios.get(url);
+
+
 
 
 
