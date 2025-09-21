@@ -42,11 +42,3 @@ async function getImage() {
 //     }
 
 // }
-
-async function getFacts(){
-    try {
-
-
-
-
-
