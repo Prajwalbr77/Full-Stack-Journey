@@ -8,4 +8,5 @@ function logKey(e) {
 
 }
 
-const log = document.getElementById("log");
+const log = document.getElementById("");
+
