@@ -7,6 +7,3 @@ function logKey(e) {
   log.textContent += ` ${e.code}`;
 
 }
-
-const log = document.getElementById("");
-
