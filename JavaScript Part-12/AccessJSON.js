@@ -9,6 +9,7 @@ let student = {
 
 };
 
-let jesResp = '{"fact":"According to a Gallup poll,"}';
+let jesResp = '{"fact":}';
+
 
 
