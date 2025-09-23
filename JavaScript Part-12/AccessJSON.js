@@ -8,9 +8,3 @@ let student = {
     marks: 95
 
 };
-
-let jesResp 
-
-
-
-
