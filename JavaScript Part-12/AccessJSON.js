@@ -8,3 +8,5 @@ let student = {
     marks: 95
 
 };
+
+let jesResp = '{"fact":"According to a Gallup poll, most American pet owners obtain their cats by adopting strays.","length":90}';
