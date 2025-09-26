@@ -15,5 +15,5 @@ arr.forEach((student)=>{
 })
 
 arr.forEach((student)=>{
-    console.log(student.marks);
 })
+
