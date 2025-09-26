@@ -13,7 +13,3 @@ arr.forEach((student)=>{
     console.log(student.marks);
 
 })
-
-arr.forEach((student)=>{
-})
-
