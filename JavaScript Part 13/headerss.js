@@ -11,5 +11,6 @@ async function getJokes() {
     }
 
 }
-const url = "https://"
+const url = ""
+
 
