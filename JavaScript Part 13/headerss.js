@@ -11,6 +11,3 @@ async function getJokes() {
     }
 
 }
-const url = ""
-
-
