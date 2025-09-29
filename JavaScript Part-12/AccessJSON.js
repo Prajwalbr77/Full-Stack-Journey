@@ -9,4 +9,5 @@ let student = {
 
 };
 
-let jesResp = console.log("fact according to a gallup poll most american pet owners obtain their cats by adopting strays");
+let jesResp = console.log("fact according to a gallup poll most american pet their cats by adopting strays");
+
