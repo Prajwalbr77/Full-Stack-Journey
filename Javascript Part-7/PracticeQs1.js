@@ -9,6 +9,6 @@ setTimeout(()=>{
 },10000);
 
 let id = setInterval(()=>{
-    console.log("");
 },2000);
+
 
