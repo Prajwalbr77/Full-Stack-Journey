@@ -7,3 +7,7 @@ setTimeout(()=>{
     console.log("Clear interval ran");
 
 },10000);
+
+let id = setInterval(()=>{
+    console.log("Hello world");
+},2000);
