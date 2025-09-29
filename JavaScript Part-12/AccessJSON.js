@@ -8,3 +8,5 @@ let student = {
     marks: 95
 
 };
+
+let jesResp = console.log("fact according to a gallup poll most american pet owners obtain their cats by adopting strays");
