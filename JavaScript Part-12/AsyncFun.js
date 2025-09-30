@@ -16,7 +16,3 @@ let demo = async () => {
     return 5;
 
 }
-async function greet(){
-}
-
-
