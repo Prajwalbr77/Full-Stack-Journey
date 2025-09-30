@@ -17,6 +17,6 @@ let demo = async () => {
 
 }
 async function greet(){
-    throw "404 page not found";
 }
+
 
