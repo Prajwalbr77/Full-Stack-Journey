@@ -26,6 +26,14 @@ changeColor("red",1000)
      console.log("lightblue color was completed");
 });
 
+function changeColor(color,delay){
+    return new Promise((resolve,reject)=>{
+        setTimeout(()=>{
+        h1.style.color=color;
+        resolve("color changed!");
+     },delay);
+    });
+}
 
 
 
@@ -40,5 +48,6 @@ changeColor("red",1000)
 //         });
 //     });
 // });
+
 
 //callback nesting => callback hell
