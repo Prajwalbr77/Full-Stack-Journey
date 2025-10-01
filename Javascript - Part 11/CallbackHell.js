@@ -26,13 +26,6 @@ changeColor("red",1000)
      console.log("lightblue color was completed");
 });
 
-function changeColor(color,delay){
-    return new Promise((resolve,reject)=>{
-        setTimeout(()=>{
-     },delay);
-    });
-}
-
 
 
 
@@ -49,5 +42,6 @@ function changeColor(color,delay){
 
 
 //callback nesting => callback hell
+
 
 
