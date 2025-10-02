@@ -29,13 +29,3 @@ savetoDb("apna college")
     console.log("error of promise",error);
 
 })
-
-.catch((error)=>{
-})
-
-
-
-
-
-
-
