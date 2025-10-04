@@ -49,4 +49,9 @@ async function demo(){
     console.log("new number =",a+3);
 }
 
+
 demo();
+
+let a = 5;
+console.log(a);
+console.log("new number =" , a+3);
