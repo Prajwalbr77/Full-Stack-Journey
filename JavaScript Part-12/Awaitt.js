@@ -54,4 +54,3 @@ demo();
 
 let a = 5;
 console.log(a);
-console.log("new number =" , a+3);
