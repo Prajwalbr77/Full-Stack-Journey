@@ -39,7 +39,5 @@ async function getFacts(){
 }
 async function getFacts(){
     try {
-        let res = await fetch (url);
     }
 }
-
