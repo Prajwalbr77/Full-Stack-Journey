@@ -38,6 +38,5 @@ async function getFacts(){
 
 }
 async function getFacts(){
-    try {
-    }
 }
+
