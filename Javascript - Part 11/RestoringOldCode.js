@@ -26,4 +26,8 @@ changeColor("red",1000)
      console.log("lightblue color was completed");
 });
 
+.then(()=>{
+    console.log("lightblue color was completed");
+});
+
 
