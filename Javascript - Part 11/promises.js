@@ -16,3 +16,7 @@ savetoDb("PRAJWAL BR")
 .catch(()=>{
     console.log("promise was rejected");
 })
+
+.catch(()=>{
+    console.log("promise was rejected");
+})
