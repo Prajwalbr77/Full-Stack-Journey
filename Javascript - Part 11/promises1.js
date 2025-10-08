@@ -34,6 +34,3 @@ savetoDb(
 
 
  ()=>{
-    console.log("failure2 : weak connection");
- })
-},
