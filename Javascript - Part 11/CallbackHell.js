@@ -48,10 +48,10 @@ function changeColor(color,delay){
     return new Promise((resolve,reject)=>{
         setTimeout(()=>{
         h1.style.color=color;
-        resolve("color changed!");
      },delay);
     });
 }
+
 
 
 
