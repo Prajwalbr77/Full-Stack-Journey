@@ -45,11 +45,10 @@ changeColor("red",1000)
 
 
 function changeColor(color,delay){
-    return new Promise((resolve,reject)=>{
-        setTimeout(()=>{
      },delay);
     });
 }
+
 
 
 
