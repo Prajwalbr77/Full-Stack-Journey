@@ -29,5 +29,5 @@ changeColor("red",1000)
 
 
 .then(()=>{
-     console.log("lightblue color was completed");
 });
+
