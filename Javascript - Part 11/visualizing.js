@@ -13,6 +13,6 @@ function three(){
 three();
 
 function three(){
-    let ans= two() + one();
 }
+
 
