@@ -11,8 +11,3 @@ function three(){
 
 
 three();
-
-function three(){
-}
-
-
