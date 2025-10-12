@@ -9,4 +9,10 @@ function three(){
     console.log(ans);
 }
 
+
 three();
+
+function three(){
+    let ans= two() + one();
+    console.log(ans);
+}
