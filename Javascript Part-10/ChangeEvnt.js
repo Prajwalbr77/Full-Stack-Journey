@@ -16,7 +16,8 @@ user.addEventListener("input",function(){
 });
 
 
-user.addEventListener("input",function(){
+user.addEventListener("",function(){
 });
+
 
 
