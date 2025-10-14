@@ -26,3 +26,14 @@ function sayName(){
     alert("Apna college");
 
 }
+
+
+
+
+function sayhello(){
+    alert("hello");
+}
+function sayName(){
+    alert("Apna college");
+
+}
