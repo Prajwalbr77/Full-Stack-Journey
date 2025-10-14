@@ -34,6 +34,6 @@ function sayhello(){
     alert("hello");
 }
 function sayName(){
-    alert("Apna college");
 
 }
+
