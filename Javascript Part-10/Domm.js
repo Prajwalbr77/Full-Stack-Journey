@@ -33,7 +33,5 @@ function sayName(){
 function sayhello(){
     alert("hello");
 }
-function sayName(){
 
-}
 
