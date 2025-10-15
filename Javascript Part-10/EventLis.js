@@ -9,6 +9,6 @@ p.addEventListener ('mouseout',function(){
 
 let p = document.querySelector('p');
 p.addEventListener ('mouseout',function(){
-    console.log("Mouse entered!");
 
 });
+
