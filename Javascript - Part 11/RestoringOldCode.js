@@ -29,6 +29,7 @@ changeColor("red",1000)
 
 
 .then(()=>{
-     console.log("ligth blue are so complicated");
+     console.log("red blue");
 });
+
 
