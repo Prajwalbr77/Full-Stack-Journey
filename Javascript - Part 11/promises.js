@@ -32,7 +32,7 @@ function savetoDb(data){
     if(internetSpeed > 4){
         resolve("success: data was saved");
     } else {
-        reject("failure: weak connection");
     }
    });
 }
+
