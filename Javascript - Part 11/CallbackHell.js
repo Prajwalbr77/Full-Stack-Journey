@@ -42,3 +42,20 @@ changeColor("red",1000)
 
 
 //callback nesting => callback hell
+
+
+
+
+
+
+
+
+ changeColor("red",1000 ,()=>{
+     changeColor("green",1000,()=>{
+         changeColor("blue",1000,()=>{
+             changeColor("yellow",1000,()=>{
+                 changeColor("pink");
+             });
+         });
+     });
+ });
