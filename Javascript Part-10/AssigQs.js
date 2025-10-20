@@ -9,11 +9,3 @@ inp.addEventListener('input',function(){
    h3.innerText = filtered;
 
 });
-
-
-
-
-inp.addEventListener('input',function(){
-    const filtered = inp.value.replace(/[^A-Za-z\s]/g,'');
-
-
