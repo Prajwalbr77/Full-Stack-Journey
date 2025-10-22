@@ -11,18 +11,3 @@ async function getJokes() {
     }
 
 }
-
-
-
-
-
-const url = "https://icanhazdadjoke.com/";
-
-async function getJokes() {
-    try {
-        const config = {headers: {Accept: "application/json"}};
-
-}
-
-
-
