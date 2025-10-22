@@ -25,8 +25,8 @@ async function getJokes() {
      console.log(res.data);
     }
     catch(err){
-  console.log(err);
     }
 
 }
+
 
