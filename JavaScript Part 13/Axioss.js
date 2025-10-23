@@ -42,3 +42,18 @@ async function getImage() {
 //     }
 
 // }
+
+
+
+
+
+async function getImage() {
+    try {
+        let res = await axios.get(url2);
+        return res.data.message;
+    }
+    catch(e){
+        console.log("error :",e);
+        return "/";
+    }
+}
