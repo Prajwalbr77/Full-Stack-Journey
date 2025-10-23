@@ -53,7 +53,7 @@ async function getImage() {
         return res.data.message;
     }
     catch(e){
-        console.log("error :",e);
         return "/";
     }
 }
+
