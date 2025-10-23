@@ -52,8 +52,6 @@ async function getImage() {
         let res = await axios.get(url2);
         return res.data.message;
     }
-    catch(e){
-        return "/";
-    }
 }
+
 
