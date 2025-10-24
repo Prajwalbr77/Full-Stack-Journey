@@ -37,3 +37,15 @@ async function getFacts(){
    
 
 }
+
+
+
+
+    let res1 = await fetch(url);
+    let data1 = await res1.json();
+    console.log(data1.fact);
+    }
+    catch (e) {
+        console.log("error :",e);
+    }
+   
