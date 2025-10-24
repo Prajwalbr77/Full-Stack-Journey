@@ -44,8 +44,3 @@ async function getFacts(){
     let res1 = await fetch(url);
     console.log(data1.fact);
     }
-    catch (e) {
-        console.log("error :",e);
-    }
-   
-
