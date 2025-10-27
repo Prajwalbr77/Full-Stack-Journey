@@ -25,6 +25,4 @@ savetoDb("PRAJWAL BR")
 .then(()=> {
     console.log("promise was resolved");
 })
-.catch(()=>{
-})
 
