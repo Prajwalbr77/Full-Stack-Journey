@@ -29,3 +29,18 @@ savetoDb(
     console.log("weak connection. data not saved");
 
 });
+
+
+
+
+
+
+
+
+    console.log("failure2 : weak connection");
+ })
+},
+() =>{
+    console.log("weak connection. data not saved");
+
+});
