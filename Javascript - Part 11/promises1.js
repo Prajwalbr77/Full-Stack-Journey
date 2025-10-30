@@ -41,6 +41,6 @@ savetoDb(
  })
 },
 () =>{
-    console.log("weak connection. data not saved");
 
 });
+
