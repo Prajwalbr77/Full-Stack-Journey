@@ -11,3 +11,11 @@ async function getJokes() {
     }
 
 }
+
+
+
+   catch(err){
+  console.log(err);
+    }
+
+}
