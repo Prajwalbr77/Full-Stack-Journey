@@ -11,9 +11,3 @@ async function getJokes() {
     }
 
 }
-
-
-
-   catch(err){
-}
-
