@@ -16,5 +16,4 @@ let jesResp = '{"fact":"According to a Gallup poll, most American pet owners obt
 let validRes = JSON.parse(jesResp);
 console.log(validRes.fact);
 
-let student = {};
 
