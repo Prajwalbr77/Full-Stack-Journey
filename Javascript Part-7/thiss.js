@@ -20,8 +20,7 @@ const student ={
     knowledge : 80,
     ability : 95,
     getAvg(){
-        let avvg = (this.age + this.coding + this.knowledge) /3;
-        console.log(avvg);
     }
 
 }
+
