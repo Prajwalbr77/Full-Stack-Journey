@@ -19,8 +19,6 @@ const student ={
     coding : 78,
     knowledge : 80,
     ability : 95,
-    getAvg(){
-    }
-
 }
+
 
