@@ -54,9 +54,7 @@ async function getFacts(){
     let data1 = await res1.json();
     console.log(data1.fact);
     }
-    catch (e) {
-    }
-   
 
 }
+
 
