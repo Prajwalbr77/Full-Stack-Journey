@@ -55,8 +55,8 @@ async function getFacts(){
     console.log(data1.fact);
     }
     catch (e) {
-        console.log("error :",e);
     }
    
 
 }
+
