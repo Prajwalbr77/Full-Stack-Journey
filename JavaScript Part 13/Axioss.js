@@ -44,9 +44,8 @@ async function getImage() {
 // }
 
 async function getImage() {
-    try {
-    }
 }
+
 
 
 
