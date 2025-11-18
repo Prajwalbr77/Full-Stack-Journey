@@ -20,9 +20,7 @@ uniqueChar(str);
 let str = "aabbccddaaiaojfsaflksjflkfjdjfiejfsdj";
 function uniqueChar(str){
     let ans = " ";
-    for(let i=0;i<str.length;i++){
-        let currentChar = str[i];
-    }
     return ans;
 }
+
 
