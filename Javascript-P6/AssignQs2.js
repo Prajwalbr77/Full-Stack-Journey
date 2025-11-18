@@ -18,9 +18,6 @@ uniqueChar(str);
 
 
 let str = "aabbccddaaiaojfsaflksjflkfjdjfiejfsdj";
-function uniqueChar(str){
-    let ans = " ";
-    return ans;
-}
+
 
 
