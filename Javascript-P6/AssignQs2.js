@@ -13,11 +13,3 @@ function uniqueChar(str){
 }
 
 uniqueChar(str);
-
-
-
-
-let str = "aabbccddaaiaojfsaflksjflkfjdjfiejfsdj";
-
-
-
