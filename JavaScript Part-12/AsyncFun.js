@@ -16,3 +16,10 @@ let demo = async () => {
     return 5;
 
 }
+
+
+
+
+.catch((err)=>{
+    console.log("promise was rejected",err);
+});
