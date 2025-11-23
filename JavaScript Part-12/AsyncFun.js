@@ -20,6 +20,7 @@ let demo = async () => {
 
 
 
-.catch((err)=>{
+.catch(=>{
 });
+
 
