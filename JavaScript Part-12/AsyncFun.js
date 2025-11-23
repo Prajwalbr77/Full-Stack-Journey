@@ -21,5 +21,5 @@ let demo = async () => {
 
 
 .catch((err)=>{
-    console.log("promise was rejected",err);
 });
+
