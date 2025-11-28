@@ -42,14 +42,3 @@ changeColor("red",1000)
 
 
 //callback nesting => callback hell
-
-h1 = document.querySelector("h1");
-
-function changeColor(color,delay){
-    return new Promise((resolve,reject)=>{
-        setTimeout(()=>{
-     },delay);
-    });
-}
-
-
