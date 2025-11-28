@@ -48,8 +48,8 @@ h1 = document.querySelector("h1");
 function changeColor(color,delay){
     return new Promise((resolve,reject)=>{
         setTimeout(()=>{
-        h1.style.color=color;
      },delay);
     });
 }
+
 
