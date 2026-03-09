@@ -10,6 +10,12 @@ btn.addEventListener("click",async ()=>{
 });
 
 
+let img = document.querySelector("#result");
+    img.setAttribute("src",link);
+    console.log(link);
+});
+
+
 async function getImage() {
     try {
         let res = await axios.get(url2);
@@ -42,3 +48,4 @@ async function getImage() {
 //     }
 
 // }
+
