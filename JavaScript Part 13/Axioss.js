@@ -12,7 +12,6 @@ btn.addEventListener("click",async ()=>{
 
 let img = document.querySelector("#result");
     img.setAttribute("src",link);
-    console.log(link);
 });
 
 
@@ -48,4 +47,5 @@ async function getImage() {
 //     }
 
 // }
+
 
