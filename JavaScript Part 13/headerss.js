@@ -17,9 +17,7 @@ async function getJokes() {
      let res = await axios.get(url,config);
      console.log(res.data);
     }
-    catch(err){
-  console.log(err);
-    }
 
 }
+
 
