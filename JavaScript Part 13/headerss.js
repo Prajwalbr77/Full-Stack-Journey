@@ -9,13 +9,8 @@ async function getJokes() {
     catch(err){
   console.log(err);
     }
-
-
-
-    try {
-        const config = {headers: {Accept: "application/json"}};
-
 }
+
 
 
 
