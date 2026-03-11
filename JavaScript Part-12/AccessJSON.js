@@ -10,6 +10,6 @@ let student = {
 
     let student = {
     name : "Prajwal B R",
-    marks: 95
 };
+
 
