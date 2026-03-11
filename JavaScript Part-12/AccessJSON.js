@@ -6,10 +6,7 @@ console.log(validRes.fact);
 let student = {
     name : "Prajwal B R",
     marks: 95
-
-
-    let student = {
-    name : "Prajwal B R",
 };
+
 
 
